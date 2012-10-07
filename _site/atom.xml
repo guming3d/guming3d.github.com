@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>blog of GuMing</title>
+ <title>GuMing</title>
  <link href="http://guming3d.github.com/atom.xml" rel="self"/>
  <link href="http://guming3d.github.com"/>
- <updated>2012-10-05T19:24:21+08:00</updated>
+ <updated>2012-10-07T21:07:16+08:00</updated>
  <id>http://guming3d.github.com</id>
  <author>
    <name>Gu Ming</name>
