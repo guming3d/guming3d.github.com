@@ -1,13 +1,19 @@
 
-http://guming3d.github.com/pages.html
-http://guming3d.github.com/index.html
-http://guming3d.github.com/categories.html
-http://guming3d.github.com/archive.html
-http://guming3d.github.com/tags.html
-http://guming3d.github.com/sitemap.txt
-http://guming3d.github.com/atom.xml
-http://guming3d.github.com/index.html
+/pages.html
+/index.html
+/categories.html
+/search/index.html
+/archive.html
+/tags.html
+/category/another/index.html
+/category/default/index.html
+/feed.xml
+/sitemap.txt
+/atom.xml
+/index.html
 
-http://guming3d.github.com/blog/2012/10/05/second-post
-http://guming3d.github.com/blog/2012/10/05/new-post
-http://guming3d.github.com/blog/2012/10/05/hello-world
+/posts/second-post.html
+/posts/new-post.html
+/posts/hello-world.html
+/posts/my-tech-blogging-like-a-hacker.html
+/posts/hello-world.html
